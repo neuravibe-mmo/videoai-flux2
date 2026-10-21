@@ -161,3 +161,71 @@ If you find the provided code or models useful for your research, consider citin
     howpublished={\url{https://bfl.ai/blog/flux-2}},
 }
 ```
+
+GitHub chính thức trở nên QUÁ ĐỈNH RỒI! 🤯 Giờ đây, bạn có thể xây dựng cả một NHÀ MÁY SẢN XUẤT NỘI DUNG AI mà không cần thuê bất kỳ nhân viên nào.
+
+
+🔥 10 KHO MÃ NGUỒN (REPO) CỰC KỲ MẠNH MẼ MÀ BẠN KHÔNG NÊN BỎ QUA:
+
+
+1. OpenCreator – KHÔNG GIAN SÁNG TẠO NỘI DUNG BẰNG AI
+Cung cấp cho Codex một không gian làm việc sáng tạo, giúp bạn viết kịch bản, tạo hình ảnh, tạo giọng đọc AI, dịch video và chỉnh sửa nội dung.
+🔗 https://github.com/krillinai/OpenCreator
+
+
+2. Social Media Research Skills – BỘ CÔNG CỤ NGHIÊN CỨU MẠNG XÃ HỘI
+Trang bị cho Claude Code và Codex các kỹ năng tìm kiếm bài đăng nổi bật, phân tích đối thủ cạnh tranh, khai thác bình luận và tìm câu mở đầu thu hút từ lời thoại video.
+🔗 https://github.com/ScrapeCreators/social-media-research-skills
+
+
+3. Local Deep Research – NGHIÊN CỨU CHUYÊN SÂU
+Biến một chủ đề thành báo cáo nghiên cứu bằng cách tìm kiếm thông tin trên web và trong tài liệu cá nhân. Hỗ trợ các mô hình AI chạy cục bộ và trên đám mây.
+🔗 https://github.com/LearningCircuit/local-deep-research
+
+
+4. FLUX.2 – TẠO VÀ CHỈNH SỬA HÌNH ẢNH BẰNG AI
+Tạo hình ảnh cho thumbnail YouTube, bài đăng mạng xã hội và chiến dịch quảng cáo. Repo cung cấp các mô hình tạo ảnh, trong đó có dòng Klein 4B với trọng số theo giấy phép Apache.
+🔗 https://github.com/black-forest-labs/flux2
+
+
+5. Kokoro – BIẾN VĂN BẢN THÀNH GIỌNG NÓI AI
+Chuyển kịch bản thành giọng đọc AI bằng mô hình tổng hợp giọng nói có trọng số mở. Phù hợp để tìm hiểu cách tích hợp thuyết minh vào quy trình sản xuất video.
+🔗 https://github.com/hexgrad/kokoro
+
+
+6. ACE-Step 1.5 – SÁNG TẠO ÂM NHẠC BẰNG AI
+Tạo nhạc từ mô tả văn bản, sản xuất nhạc nền không lời và tạo lại những đoạn âm thanh cụ thể. Có thể chạy cục bộ trên phần cứng tương thích.
+🔗 https://github.com/ace-step/ACE-Step-1.5
+
+
+7. Short Video Factory – NHÀ MÁY SẢN XUẤT VIDEO NGẮN
+Tự động hóa nhiều công đoạn tạo video ngắn, từ viết nội dung, tạo giọng đọc đến chỉnh sửa video và thêm phụ đề.
+🔗 https://github.com/YILS-LIN/short-video-factory
+
+
+8. AI YouTube Shorts Generator – TỰ ĐỘNG TẠO YOUTUBE SHORTS
+Chuyển video YouTube dài thành video Shorts dọc bằng cách tự động chọn đoạn nổi bật, nhận diện lời thoại và cắt khung hình.
+🔗 https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator
+
+
+9. Podcastfy – TẠO PODCAST BẰNG AI
+Biến tài liệu nguồn thành các cuộc hội thoại podcast do AI tạo ra. Có thể tùy chỉnh lời thoại và tạo nội dung âm thanh bằng nhiều ngôn ngữ.
+🔗 https://github.com/souzatharsis/podcastfy
+
+
+10. Social Media Agent – TRỢ LÝ AI HỖ TRỢ ĐĂNG BÀI
+Chuyển một đường link thành bản nháp bài đăng trên X và LinkedIn. Hỗ trợ xem lại, chỉnh sửa và lên lịch đăng thông qua quy trình AI Agent.
+🔗 https://github.com/langchain-ai/social-media-agent
+
+
+🚀 ĐIỀU ĐÁNG CHÚ Ý: Những công cụ này có thể hỗ trợ nhiều công đoạn trong quy trình sáng tạo nội dung, từ nghiên cứu ý tưởng, viết kịch bản, tạo hình ảnh, giọng đọc, nhạc nền cho đến sản xuất video ngắn.
+Bạn không nhất thiết phải sử dụng tất cả. Hãy lựa chọn công cụ phù hợp với nhu cầu, cấu hình máy tính và ngân sách của mình.
+
+
+🔥 NẾU ĐƯỢC TỰ ĐỘNG HÓA MỘT KHÂU TRONG QUY TRÌNH LÀM NỘI DUNG, BẠN SẼ CHỌN KHÂU NÀO ĐẦU TIÊN?
+
+
+💬 Bình luận bên dưới để cùng trao đổi nhé!
+
+
+#ai #prompt #xuhuong
